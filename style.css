@@ -42,7 +42,6 @@ border-radius:10px;
 
 img{
   width: 42vh;
-  min-width: none;
   border-radius:10px;
 }
 
@@ -90,7 +89,9 @@ p{
 }
 
 footer{
-  grid-area: bottom;
   color: white;
-  font-size: 10px;
+  font-size: 12px;
+	position: absolute;
+	bottom:0;
+  margin-bottom: 2px;
 }
