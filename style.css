@@ -78,7 +78,11 @@ p{
 
 .bx{
   display: flex;
-  margin-top: 20px;
+  margin-top: 3vh;
+}
+
+.bx p{
+  text-decoration:none;
 }
 
 .bx img{
