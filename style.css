@@ -23,7 +23,7 @@ body{
 }
 
 main{
-  min-width: 230px;
+  min-width: 273px;
   max-width: 20vw;
   min-height: 480px;
   height: 70vh;
@@ -79,10 +79,6 @@ p{
 .bx{
   display: flex;
   margin-top: 3vh;
-}
-
-.bx p{
-  text-decoration:none;
 }
 
 .bx img{
