@@ -67,17 +67,18 @@ p{
 
 .eth{
   color: var(--cor6);
-  margin:0;
+  margin:20px 0 0px;
 }
 
 .dr{
   text-align: right;
-  margin: 0;
+  margin: 20px 0 0px;
   color: var(--cor5);
 }
 
 .bx{
   display: flex;
+  margin-top: 20px;
 }
 
 .bx img{
