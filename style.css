@@ -40,8 +40,10 @@ main {
   border-radius: 10px;
 }
 
-img {
-  width: 42vh;
+.cubo img {
+
+  width: 20vw;
+  min-width:250px;
   border-radius: 10px;
 }
 
