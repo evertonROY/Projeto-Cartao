@@ -82,14 +82,14 @@ p {
   margin-top: 3vh;
 }
 
-.bx a{
+.bx a {
   text-decoration: none;
   color: rgba(83, 174, 177, 0.897);
 }
 
-.bx a:hover{
+.bx a:hover {
   text-decoration: none;
-  color:rgba(192, 220, 221, 0.897);
+  color: rgba(192, 220, 221, 0.897);
 }
 
 .bx img {
@@ -107,12 +107,12 @@ footer {
   margin-bottom: 0.1vh;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: rgba(83, 174, 177, 0.897);
 }
 
-footer a:hover{
+footer a:hover {
   text-decoration: none;
   color: rgba(192, 220, 221, 0.897);
 }
