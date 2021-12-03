@@ -24,9 +24,11 @@ body {
 
 main {
   min-width: 273px;
-  max-width: 20vw;
+  max-width: 300px;
   min-height: 480px;
-  height: 70vh;
+  min-height: 30vh;
+  max-height: 90vh;
+  
   padding: 3vh;
   background-color: rgb(20, 37, 61);
   border-radius: 12px;
